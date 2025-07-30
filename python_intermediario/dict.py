@@ -6,6 +6,7 @@ como str, int, float, bool, tuple, etc.
 O valor pode ser de qualquer tipo, incluindo outro dicionario
 Usamos as chaves - {} - ou a classe dict para cirar dicionarios
 Imutaveis: str, int, float, bool, tuple
+
 Mutavel = dict, list
 pessoa = {
 'nome': 'Luis Eduardo',
@@ -29,6 +30,7 @@ pessoa = {
 {'rua':'Prazeres','numero':102}
 ]
 }
+
 #Ou dessa forma, que e menos utilizada que a criada acima
 # pessoa = dict(nome='Luis',sobrenome='Eduardo')
 
